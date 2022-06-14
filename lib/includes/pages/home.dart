@@ -31,7 +31,7 @@ class Home_page extends StatelessWidget {
         fabOpenColor: Colors.white70,
         children: [
           IconButton(
-            onPressed: () => _launchUrl(Uri.parse('https://Github.com/Liogbe')),
+            onPressed: () => _launchUrl(Uri.parse('https://github.com/Liogbe')),
             icon: Icon(FontAwesomeIcons.github),
             color: Colors.blue[600],
           ),
@@ -43,12 +43,12 @@ class Home_page extends StatelessWidget {
           ),
           IconButton(
             onPressed: () => _launchUrl(Uri.parse(
-                'https://api.whatsapp.com/send/?phone=%2B22898404303&text&app_absent=0')),
+                'https://api.whatsapp.com/')),
             icon: Icon(FontAwesomeIcons.whatsapp),
             color: Colors.blue[600],
           ),
           IconButton(
-            onPressed: () => _launchUrl(Uri.parse('https://www.facebook.com')),
+            onPressed: () => _launchUrl(Uri.parse('https://m.facebook.com')),
             icon: Icon(FontAwesomeIcons.facebook),
             color: Colors.blue[600],
           ),
