@@ -3,5 +3,5 @@
 import 'package:flutter/material.dart';
 
 String author_description =
-    "Lorentz, Developpeur fullstack, \n Ingenieur en cybersécurité";
+    "Lorentz, Developpeur fullstack, \n Ingenieur en réseaux";
 var profil_image = Image.asset('assets/images/pr.png');
