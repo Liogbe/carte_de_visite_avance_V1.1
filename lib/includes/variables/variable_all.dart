@@ -7,7 +7,7 @@ const String titre_app = 'my_app_info'; // titre de l'app // icone d'aide
 //body
 const String author_ = 'Lorentz'; // nom
 var competence_ =
-    "Etudiant en MRI 3annéé, Aspirant developpeur web et conception d'applications de toutes sortes"; //competence
+    "Etudiant en Reseaux Informatique, Developpeur web et conception d'applications de toutes sortes"; //competence
 
 const TextStyle competence_style = TextStyle(
   fontFamily: 'Lobster',
